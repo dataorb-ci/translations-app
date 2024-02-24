@@ -1,7 +1,7 @@
 {
   "appType": "APP",
-  "short_name": "translations",
-  "name": "Translations",
+  "short_name": "translations-pro",
+  "name": "Translations Pro",
   "description": "",
   "version": "26.2.30",
   "core_app": true,
